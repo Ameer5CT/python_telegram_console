@@ -13,3 +13,6 @@ num2 = int( tinput("Number two:") )
 result = num1 + num2
 
 tprint(f"{num1} + {num2} = {result}")
+
+# 🔼🔼🔼🔼🔼 Write your code above 🔼🔼🔼🔼🔼
+dont_edit.end_bot()

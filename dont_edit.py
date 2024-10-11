@@ -64,3 +64,7 @@ def tinput(text):
     temp_text = text_input
     text_input = ""
     return temp_text
+
+
+def end_bot():
+    bot.stop_polling()
