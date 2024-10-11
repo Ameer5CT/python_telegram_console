@@ -67,4 +67,5 @@ def tinput(text):
 
 
 def end_bot():
+    bot.send_message(chat_id, "🔼🔼🔼🔼🔼\nYour code ended")
     bot.stop_polling()
